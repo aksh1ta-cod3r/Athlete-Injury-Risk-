@@ -1,5 +1,7 @@
 # Athlete Injury Risk Assessment System (JUDO)
+## Live Demo
 
+[HajimeOlympics App](https://hajimeolympics.streamlit.app/)
 An AI and Machine Learning based sports analytics project focused on predicting injury risk in athletes using training workload, fatigue levels, competition exposure, recovery habits, and weight-cutting patterns.
 
 ## Project Overview
